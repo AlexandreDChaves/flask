@@ -1,36 +1,36 @@
 personagens = {
     1: {
-        "Nome": "Naruto Uzumaki",
+        "nome": "Naruto Uzumaki",
         "Cla": "Uzumaki",
         "Vila": "Oculta das Folhas",
         "Ocupacao": "Hokage",
         "Habilidades" : "Kekkei Genkai",
-        "Imagem" : "https://static.printler.com/cache/1/d/1/6/3/2/1d16328afbff8b7fb8d52d5bfb84d9540cd24204.jpg",
+        "imagem" : "https://static.printler.com/cache/1/d/1/6/3/2/1d16328afbff8b7fb8d52d5bfb84d9540cd24204.jpg",
 
     },
     2: {
-        "Nome" : "Itachi Uchiha",
+        "nome" : "Itachi Uchiha",
         "Cla" : "Uchiha",
         "Vila" : "Oculta das Folhas",
         "Ocupacao" : "Capitão da Anbu",
         "Habilidades" : "Sharingan",
-        "Imagem" : "https://static.wikia.nocookie.net/shinobi-striker/images/b/bb/Itachi.png/revision/latest?cb=20211116160720",
+        "imagem" : "https://static.wikia.nocookie.net/shinobi-striker/images/b/bb/Itachi.png/revision/latest?cb=20211116160720",
     },
     3: {
-        "Nome" : "Jiraiya",
+        "nome" : "Jiraiya",
         "Cla" : "Hatake",
         "Vila" : "Oculta das Folhas",
         "Ocupacao" : "Escritor",
         "Habilidades" : "Eremita dos Sapos",
-        "Imagem" : "https://static.wikia.nocookie.net/naruto/images/1/13/Jiraiya_%28Render%29.png/revision/latest?cb=20220430165838&path-prefix=pt-br",
+        "imagem" : "https://static.wikia.nocookie.net/naruto/images/1/13/Jiraiya_%28Render%29.png/revision/latest?cb=20220430165838&path-prefix=pt-br",
     },
     4: {
-        "Nome" : "Hashirama Senju",
+        "nome" : "Hashirama Senju",
         "Cla" : "Senju",
         "Vila" : "Oculta das Folhas",
         "Ocupacao" : "Lider do clã Senju",
         "Habilidades" : "Estilo Madeira",
-        "Imagem" : "https://static.wikia.nocookie.net/naruto/images/5/57/Hashirama_Full.png/revision/latest?cb=20130514231154&path-prefix=pt-br",
+        "imagem" : "https://static.wikia.nocookie.net/naruto/images/5/57/Hashirama_Full.png/revision/latest?cb=20130514231154&path-prefix=pt-br",
     }
 }
 
